@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    
+    
+    background-color: #121212;
+}
+#Titulo{
+    position: absolute;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 40pc;
+
+}
+#box{
+    position: absolute;
+   background-color:  #111010;
+   width: 95.8pc;
+    height: 5pc;
+    opacity: 0.7;
+}
+#login{
+    color: white;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 2.3pc;
+    font-size: 2pc;
+    top: 10.6px;
+
+}
+#box_login{
+    position: absolute;
+   background-color: rgb(50, 49, 49);
+   width: 10pc;
+    height: 4pc;
+    opacity: 0.7;
+    left: 1pc;
+    top: 10px;
+    align-items:flex-start;
+}
+
+#box3{
+    position: absolute;
+    background-color:  #111010;
+    width: 95.8pc;
+     height: 45pc;
+     opacity: 0.7;
+     top: 6pc;
+}
+#box4{
+    position: absolute;
+    background-color:  rgb(50, 49, 49);
+    width: 21pc;
+     height: 20pc;
+     opacity: 0.7;
+     top: 6pc;
+     
+}
+#box5{
+    position: absolute;
+    background-color:  rgb(50, 49, 49);
+    width: 21pc;
+     height: 20pc;
+     opacity: 0.7;
+     top: 6pc;;
+     left: 24pc;
+}
+#imagem{
+    position: absolute;
+    width: 19pc;
+     height: 18pc;
+     left: 15px;
+     top: 17px;
+
+}
+#usuario1{
+    position: absolute;
+    color: white;
+    top: 24pc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ left: 47px;
+    font-size: 4pc;
+}
+#imagem2{
+    position: absolute;
+    width: 19pc;
+     height: 18pc;
+     left: 15px;
+     top: 17px;
+
+}
+#usuario2{
+    position: absolute;
+    color: white;
+    top: 24pc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ left: 31pc;
+    font-size: 4pc;
+}
+#box6{
+    position: absolute;
+    background-color:  rgb(50, 49, 49);
+    width: 21pc;
+     height: 20pc;
+     opacity: 0.7;
+     top: 6pc;;
+     left: 48pc;
+}
+#usuario3{
+    position: absolute;
+    color: white;
+    top: 24pc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ left: 55.5pc;
+    font-size: 4pc;
+}
+#box7{
+    position: absolute;
+    background-color:  rgb(50, 49, 49);
+    width: 21pc;
+     height: 20pc;
+     opacity: 0.7;
+     top: 6pc;;
+     left: 72pc;
+}
+#usuario4{
+    position: absolute;
+    color: white;
+    top: 24pc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ left: 80pc;
+    font-size: 4pc;
+}
+#box_envie_a_sua{
+    position: absolute;
+   background-color: rgb(50, 49, 49);
+   width: 20pc;
+    height: 4pc;
+    opacity: 0.7;
+    left: 13pc;
+    top: 10px;
+    align-items:flex-start;
+}
+#envie_a_sua{
+    color: white;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 0.5pc;
+    font-size: 2pc;
+    top: 10.6px;
+    width: 30pc;
+    text-decoration: none;
+}
+
+
+#box_voltar{
+    position: absolute;
+    background-color: rgb(50, 49, 49);
+    width: 10pc;
+     height: 4pc;
+     opacity: 0.7;
+     left: 85pc;
+     top: 10px;
+     align-items:flex-start;
+}
+#voltar{
+    color: white;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 2.2pc;
+    font-size: 2pc;
+    top: 10.6px;
+    text-decoration: none;
+}
